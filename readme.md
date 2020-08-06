@@ -1,11 +1,5 @@
 # electron
 
-> Boilerplate to kickstart creating an app with [Electron](https://github.com/electron/electron)
-
-See [awesome-electron](https://github.com/sindresorhus/awesome-electron) for more useful Electron resources.
-
-See [Caprine](https://github.com/sindresorhus/caprine) for a production app based on this boilerplate.
-
 
 ## Features
 

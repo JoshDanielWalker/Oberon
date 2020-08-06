@@ -1,5 +1,7 @@
 # Oberon
 
+[![Build Status](https://travis-ci.com/JoshDanielWalker/Oberon.svg?branch=master)](https://travis-ci.com/JoshDanielWalker/Oberon)
+
 ## Install
 
 *macOS 10.10+, Linux, and Windows 7+ are supported (64-bit only).*

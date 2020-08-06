@@ -1,4 +1,4 @@
-# electron-boilerplate
+# electron
 
 > Boilerplate to kickstart creating an app with [Electron](https://github.com/electron/electron)
 

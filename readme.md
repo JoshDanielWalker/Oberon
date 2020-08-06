@@ -45,17 +45,17 @@ There's also a [Yeoman generator](https://github.com/sindresorhus/generator-elec
 
 **macOS**
 
-[**Download**](https://github.com/user/repo/releases/latest) the `.dmg` file.
+[**Download**](https://github.com/JoshDanielWalker/Oberon/releases/latest) the `.dmg` file.
 
 **Linux**
 
-[**Download**](https://github.com/user/repo/releases/latest) the `.AppImage` or `.deb` file.
+[**Download**](https://github.com/JoshDanielWalker/Oberon/releases/latest) the `.AppImage` or `.deb` file.
 
 *The AppImage needs to be [made executable](http://discourse.appimage.org/t/how-to-make-an-appimage-executable/80) after download.*
 
 **Windows**
 
-[**Download**](https://github.com/user/repo/releases/latest) the `.exe` file.
+[**Download**](https://github.com/JoshDanielWalker/Oberon/releases/latest) the `.exe` file.
 
 
 ---

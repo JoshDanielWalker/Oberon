@@ -4,11 +4,11 @@
 	"version": "0.0.2",
 	"description": "The best app ever",
 	"license": "MIT",
-	"repository": "sindresorhus/electron-boilerplate",
+	"repository": "JoshDanielWalker/Oberon",
 	"author": {
-		"name": "Your Name",
+		"name": "Joshua Daniel Walker",
 		"email": "user@gmail.com",
-		"url": "https://sindresorhus.com"
+		"url": "https://www.j0sh.co.uk"
 	},
 	"scripts": {
 		"postinstall": "electron-builder install-app-deps",
